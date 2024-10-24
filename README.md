@@ -15,7 +15,13 @@ Otimizador Adam e função de perda categorical_crossentropy.
 
 ## Instruções de instalação:
 
-# Todos os arquivos ultilizados para essa atividade estao disponiveis em
+# Os arquivos utilizados na atividade estão acima.
+
+# Instale as dependências necessárias : Certifique-se de que você tem o Python instalado, de preferência na versão 3.6 ou superior. Você pode instalar as dependências usando o pip:
+   ```bash
+      pip install -r requirements.txt
+ ```
+
 
 ## Créditos
 Este projeto foi desenvolvido por Alonso Sales, Layane Bentes, João Victor e Jaime Silva como parte de um projeto acadêmico em Sistemas de Informação. As bibliotecas utilizadas incluem Keras/TensorFlow para modelagem de redes neurais e Sklearn para avaliação de métricas.
