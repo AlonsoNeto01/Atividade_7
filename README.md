@@ -15,7 +15,7 @@ Otimizador Adam e função de perda categorical_crossentropy.
 
 ## Instruções de instalação:
 
-# Todos os arquivos ultilizados para essa atividade estao disponiveis em: https://drive.google.com/drive/folders/17rzhRM6p6W62jxFiyeSsNRoT9mOo9mIe?usp=sharing 
+# Todos os arquivos ultilizados para essa atividade estao disponiveis em
 
 ## Créditos
 Este projeto foi desenvolvido por Alonso Sales, Layane Bentes, João Victor e Jaime Silva como parte de um projeto acadêmico em Sistemas de Informação. As bibliotecas utilizadas incluem Keras/TensorFlow para modelagem de redes neurais e Sklearn para avaliação de métricas.
