@@ -15,7 +15,7 @@ Otimizador Adam e função de perda categorical_crossentropy.
 
 ## Instruções de instalação:
 https://github.com/AlonsoNeto01/Atividade_7/blob/main/Aruivos.zip
-Os arquivos utilizados na atividade estão acima.
+# Os arquivos utilizados na atividade estão acima.
 
 
 
