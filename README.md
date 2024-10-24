@@ -15,12 +15,8 @@ Otimizador Adam e função de perda categorical_crossentropy.
 
 ## Instruções de instalação:
 
-# Os arquivos utilizados na atividade estão acima.
+Os arquivos utilizados na atividade estão acima.
 
-# Instale as dependências necessárias : Certifique-se de que você tem o Python instalado, de preferência na versão 3.6 ou superior. Você pode instalar as dependências usando o pip:
-   ```bash
-      pip install -r requirements.txt
- ```
 
 
 ## Créditos
